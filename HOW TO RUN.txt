@@ -1,0 +1,40 @@
+1. You replace sendto.ini with your email. This email is used so that later 
+the smtp results that work will be directly tested and sent there.
+
+2. Then you just need to prepare your ip / list website in a txt file (for example ip.txt) 
+and run laravelbot.exe then select number 3 for ip scan or number 2 for scanning websites.
+
+3. if you have selected it will be asked to use a thread, if you use this thread it will make 
+the scan much faster but it consumes ram, so if your ram is 8gb it can usually be 400-700 threads
+
+4. if it will be immediately scanned and just waiting for the results
+
+
+
+some frequently asked questions:
+Q : I don't have an ips list, so how?
+A : take it easy with laravel bot version 3.7 and above you can use option number 18 without the need for ips list, you only need ips range so you can enter an example:
+	start ips : 3.1.1.1
+	to ips : 3.253.253.253
+then bot will check all ips range from there like 3.1.1.1,3.1.1.2,3.1.1.3,.. etc
+or if u want use this way u can use another way, use angry ip. tutorial for it read "how to find good ips from angryip.txt"
+
+Q: What is threads?
+A: it for speed scanning & it deppend on your ram, if your ram 4-8 u can use 200 thread, 16gb ram for 400-500 thread, and more..
+
+Q: why don't I get the result?
+A: for results it depends on your list and generally you have to scan a 
+very large number to get the result if you are not using laravel lists
+
+Q: why have my results only gotten a few hours but are no longer valid
+A: This is natural because there are many people who crack like you, 
+so if you get the same result as other people this will make the result quickly invalid. so you have to quickly use it if you get smtp
+
+Q: What if I want to replace the PC?
+A: You have to contact the admin and send the new key from your rdp / pc
+
+Q: what is the shell password?
+A: root
+
+Q: which one is better whether IP or website?
+A: Of course the website because the chance of crashing into someone else's scan is small because the IP has a limit

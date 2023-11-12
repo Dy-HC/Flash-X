@@ -1,0 +1,43 @@
+SHOP : NO NEED TO BUY LOL
+TELEGRAM GROUP : https://t.me/OXNIGHTSEC
+TELEGRAM SHOP : https://t.me/NSH69SHOP
+MY TELEGRAM : https://t.me/OXNIGHTSEC123
+
+[LEAKED BY 0XNIGHTSEC]
+
+For the first and second features I think you can see my previous video
+
+BEST FEATURE : AUTO SEND TO YOUR EMAIL 
+all features include auto send to email
+YOU ALSO GET SOME TUTORIAL BONUSES
+
+HOW TO USE ?
+1. first you have to change sendto.ini which is the email address for your results
+2. then run env.exe
+3. start checking & have fun :)
+
+
+FEATURE DETAILS
+
+=> Feature number 3 : with feature number 3 you will scan the ip as usual, 
+then reverse the ip directly, then the reverse ip will be scanned too
+
+=> Feature number 4 : feature number 4 you will scan like feature number 2 but with a more 
+complete path you can customize the path in path.ini, at number 2 only scan 1 path, 
+namely website.com/.env if you custom path then this will be more and increase chances 
+of getting smtp, but custom paths take more time so you have to know what paths get often get smtp
+
+=> Feature number 5 : If you have a list of websites, you can change it to IP and 
+then scan it immediately along with the third feature
+
+=> Feature number 6 : if you only want to change the website to ip you can use this
+
+=> Feature number 7 : with feature number 7 you don't need to bother looking for IP lists, 
+you only need to use 1 word and will immediately search for website lists, and also you can customize
+the country, You can also manage the website blacklist in the blacklist folder
+
+=> Feature number 8 : This is also a solution so you don't have to bother 
+looking for IPs, you only need to enter the IP range you want to scan, 
+then the bot will immediately check the IP one by one
+
+THANKS :)

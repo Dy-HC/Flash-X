@@ -1,0 +1,7 @@
+1. download angry ip on google -http://angryip.org/download/#windows
+2. if you have downloaded and installed then run it, then go to the settings section that is in the gear shape icon
+3. then go to the display tab and change to host with open port only
+4. then just run the ip range you want to scan for example: 35.1.1.1 to 35.256.256.256
+   better to use ip aws if you understand like example 35.x.x.x / 64.x.x.x, etc.
+5. when it's finished save the file and it will be messy, not only ip
+6. download the ip extractor ( https://ufile.io/v82gs74i ) then extract the ip from your save file

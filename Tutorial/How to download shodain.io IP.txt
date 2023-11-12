@@ -1,0 +1,21 @@
+you must have python and pip, if not, you can have a look at google. 
+if you have followed these steps.
+
+
+1.pip install shodan ( Enter )
+2.easy_install shodan ( Enter )
+3.if so you have to take apikey on your shodan profile
+4.shodan init YOUR_API_KEY
+
+5.This is a tutorial if you want to download a json file via cli / python. 
+if you download via the web beta.shodan.io you can skip this step 
+
+shodan download --limit <limit number> <filename> <dork> ( Enter )
+
+example : shodan download --limit 10000 testdownload /laravel/
+
+6.if so, this step you will separate the ip from the json file
+
+shodan parse --fields ip_str, testdownload.json.gz >> ip.txt ( Enter )
+
+NOTE : FILE LOCATIONS AND DIRECTORY AT THE TERMINAL MUST BE THE SAME
